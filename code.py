@@ -6,7 +6,6 @@ import math
 import streamlit as st
 from PIL import Image
 
-
 def check_color(reference_image, captured_image, threshold=30):
     print("Color_check:-")
     print("\n")
