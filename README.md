@@ -29,8 +29,11 @@ The following steps are followed in this method:
 
 ### Results
 
-![alt text](https://drive.google.com/file/d/1Cs8cYytYS-dCZXWs9VUT79VTFvNpBCv7/view?usp=sharing/xyyz.jpg)
-
+<img
+  src="/path/to/img.jpg"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 ### References
 - https://www.researchgate.net/publication/365977982_COUNTERFEIT_CURRENCY_DETECTION_USING_IMAGE_PROCESSING
