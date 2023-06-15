@@ -29,7 +29,7 @@ The following steps are followed in this method:
 
 ### Results
 
-![alt text](https://banknotenews.com/wp-content/uploads/2020/02/India_RBI_500_rupees_2019.00.00_B303d_P114_7BB_879894_R_f.jpg)
+![alt text](https://drive.google.com/file/d/1Cs8cYytYS-dCZXWs9VUT79VTFvNpBCv7/view?usp=sharing)
 
 
 ### References
