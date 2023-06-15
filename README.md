@@ -26,14 +26,15 @@ The following steps are followed in this method:
 3. Apply Closing to connect objects to each other
 4. Apply Region filling
 5. Apply Edge-based segmentation
-
-### Results
-
 <img
   src="xyyz.JPG"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 200px, max-height: 80px">
+
+### Results
+
+
 
 ### References
 - https://www.researchgate.net/publication/365977982_COUNTERFEIT_CURRENCY_DETECTION_USING_IMAGE_PROCESSING
