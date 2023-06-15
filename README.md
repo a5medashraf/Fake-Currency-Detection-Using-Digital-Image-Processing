@@ -30,7 +30,7 @@ The following steps are followed in this method:
 ### Results
 
 <img
-  src="/path/to/img.jpg"
+  src="xyyz.jpg"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
