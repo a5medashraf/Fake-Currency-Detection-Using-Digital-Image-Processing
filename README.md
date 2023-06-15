@@ -30,10 +30,15 @@ The following steps are followed in this method:
 5. Apply Edge-based segmentation
 <img src="xyyz.JPG" alt="Image" width="620px" height="auto">
 
-There are more details about the methodology illustrated in the presentation file.
+There are More details about the methodology illustrated in the presentation file.
+
 ### Results
 
+According to human observation and testing the program has a **good** result. However, more data are required to be apple to measure the error using a **metric** and to better **tune the Thresholds**.
 
+### How to use it
+
+just download the code.py file and import the required libraries and run it on the python editor.
 
 ### References
 - https://www.researchgate.net/publication/365977982_COUNTERFEIT_CURRENCY_DETECTION_USING_IMAGE_PROCESSING
@@ -42,11 +47,3 @@ There are more details about the methodology illustrated in the presentation fil
 - https://www.mintageworld.com/knowledge-base/security-features-on-current-banknotes/
 
 
-
-
-
-
-
-This method is based on this [Paper](https://www.researchgate.net/publication/365977982_COUNTERFEIT_CURRENCY_DETECTION_USING_IMAGE_PROCESSING).
-
-https://iopscience.iop.org/article/10.1088/1757-899X/263/5/052047
