@@ -2,8 +2,7 @@
 
 ## Introduction
 Fake currency is a significant issue faced by financial institutions and individuals worldwide. Counterfeit money can have severe economic consequences, leading to financial losses and undermining the trust in the monetary system. To combat this problem, digital image processing techniques can be employed to detect fake currency notes.
-
-This project aims to develop a system that leverages digital image processing algorithms to detect counterfeit currency. By analyzing various features and patterns on currency notes, the system can identify potential discrepancies that indicate the presence of fake currency.
+This project aims to develop a system that leverages digital image processing algorithms to detect counterfeit currency especially **(Indian 500-rupee note)**. By analyzing various features and patterns on currency notes.
 
 ## Methodology
 The methodology consists of **2** methods and there are some limitations on the image that should be captured in **good light** with **high resolution** and **not tilted**.
