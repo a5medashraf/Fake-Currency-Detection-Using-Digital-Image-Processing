@@ -1,4 +1,4 @@
-![image](https://github.com/a5medashraf/Fake-Currency-Detection-Using-Digital-Image-Processing/assets/72763763/9ef1ea0e-114a-4ed7-93c1-e73d361eda59)# Fake-Currency-Detection-Using-Digital-Image-Processing
+# Fake-Currency-Detection-Using-Digital-Image-Processing
 
 ## Introduction
 Fake currency is a significant issue faced by financial institutions and individuals worldwide. Counterfeit money can have severe economic consequences, leading to financial losses and undermining the trust in the monetary system. To combat this problem, digital image processing techniques can be employed to detect fake currency notes.
@@ -7,7 +7,8 @@ This project aims to develop a system that leverages digital image processing al
 
 ## Methodology
 ### Method 1: UltraViolet effect
-The first method in the fake currency detection process is simulating the **ultraviolet effect** on the fake image. This method is based on this [Paper](https://www.researchgate.net/publication/365977982_COUNTERFEIT_CURRENCY_DETECTION_USING_IMAGE_PROCESSING).
+The first method in the fake currency detection process is simulating the **ultraviolet effect** on the fake image. 
+This method is based on this [Paper](https://www.researchgate.net/publication/365977982_COUNTERFEIT_CURRENCY_DETECTION_USING_IMAGE_PROCESSING).
 The following steps are followed in this method:
 
 1. Convert the Image to HSV Color Space
