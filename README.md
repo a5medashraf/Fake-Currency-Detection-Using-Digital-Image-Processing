@@ -16,7 +16,8 @@ The following steps are followed in this method:
 3. Compare the mean saturation of the current Image with the reference image.
 
 
-### Method 2: Pattern Recognition
-The second method employed in fake currency detection is pattern recognition. In this step, the extracted features are compared against a reference database of genuine currency features. The system uses pattern matching algorithms to determine the similarity between the features extracted from the input currency note and the reference features.
-
-Pattern recognition techniques, such as correlation-based matching or machine learning algorithms, can be used to identify potential matches and calculate a similarity score. If the similarity score falls below a predefined threshold, the note is flagged as potentially counterfeit.
+### Method 2: Feature Extraction
+The first method in the fake currency detection process is **extracting features** from the Current image and comparing them with the extracted features of the reference Image.
+The features that we have focused on are **(Blendlines, Serial number & Font size).**
+This method is based on this [Paper](https://www.researchgate.net/publication/365977982_COUNTERFEIT_CURRENCY_DETECTION_USING_IMAGE_PROCESSING).
+The following steps are followed in this method:
