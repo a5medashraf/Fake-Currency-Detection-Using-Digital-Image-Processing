@@ -6,6 +6,8 @@ Fake currency is a significant issue faced by financial institutions and individ
 This project aims to develop a system that leverages digital image processing algorithms to detect counterfeit currency. By analyzing various features and patterns on currency notes, the system can identify potential discrepancies that indicate the presence of fake currency.
 
 ## Methodology
+The methodology consists of **2** methods and there are some limitations on the image that should be captured in **good light** with **high resolution** and **not tilted**.
+
 ### Method 1: UltraViolet effect
 The first method in the fake currency detection process is simulating the **ultraviolet effect** on the fake image. 
 This method is based on this [Paper](https://www.researchgate.net/publication/365977982_COUNTERFEIT_CURRENCY_DETECTION_USING_IMAGE_PROCESSING).
@@ -28,6 +30,7 @@ The following steps are followed in this method:
 5. Apply Edge-based segmentation
 <img src="xyyz.JPG" alt="Image" width="620px" height="auto">
 
+There are more details about the methodology illustrated in the presentation file.
 ### Results
 
 
