@@ -9,11 +9,11 @@ This project aims to develop a system that leverages digital image processing al
 ### Method 1: Feature Extraction
 The first step in the fake currency detection process is feature extraction. This involves extracting key features and characteristics from the currency note images. The following steps are followed in this method:
 
-Watermarks: Extract and analyze watermarks embedded in the currency note design.
-Microprint: Detect and examine microprinted text or patterns that are often present on genuine currency notes.
-Serial numbers: Extract and compare the serial numbers on the notes to identify any inconsistencies.
-Security threads: Analyze the presence and characteristics of security threads embedded in the notes.
-These features are extracted using digital image processing techniques such as edge detection, thresholding, and template matching.
+1- Watermarks: Extract and analyze watermarks embedded in the currency note design.
+2- Microprint: Detect and examine microprinted text or patterns that are often present on genuine currency notes.
+3- Serial numbers: Extract and compare the serial numbers on the notes to identify any inconsistencies.
+4- Security threads: Analyze the presence and characteristics of security threads embedded in the notes.
+5- These features are extracted using digital image processing techniques such as edge detection, thresholding, and template matching.
 
 ### Method 2: Pattern Recognition
 The second method employed in fake currency detection is pattern recognition. In this step, the extracted features are compared against a reference database of genuine currency features. The system uses pattern matching algorithms to determine the similarity between the features extracted from the input currency note and the reference features.
