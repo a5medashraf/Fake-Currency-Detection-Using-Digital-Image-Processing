@@ -27,6 +27,7 @@ The following steps are followed in this method:
 3. Apply Closing to connect objects to each other
 4. Apply Region filling
 5. Apply Edge-based segmentation
+   
 <img src="xyyz.JPG" alt="Image" width="620px" height="auto">
 
 There are More details about the methodology illustrated in the presentation file.
